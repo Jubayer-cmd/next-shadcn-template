@@ -1,4 +1,4 @@
-# Next Entree
+# Next
 
 Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons and configs setup.
 
@@ -7,13 +7,13 @@ Next.js 14+ starter template with app router, shadcn/ui, typesafe env, icons and
 - pnpm
 
 ```bash
-pnpm create-next-app -e https://github.com/redpangilinan/next-entree
+pnpm create-next-app -e 
 ```
 
 - npm
 
 ```bash
-npx create-next-app -e https://github.com/redpangilinan/next-entree
+npx create-next-app -e 
 ```
 
 ## Features
@@ -26,7 +26,7 @@ This template uses [shadcn](https://github.com/shadcn)'s Next.js app structure f
 - shadcn/ui (Radix UI + Tailwind)
 - Typesafe env, icons, and config
 - Prettier auto sort imports and tailwind classes
-- Ready to use - jump right into development
+
 
 ## Scripts
 
